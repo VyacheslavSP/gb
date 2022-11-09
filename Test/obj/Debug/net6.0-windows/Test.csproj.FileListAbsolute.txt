@@ -1,0 +1,15 @@
+C:\Users\VecheslavSP\Desktop\Python\Test\bin\Debug\net6.0-windows\Test.exe
+C:\Users\VecheslavSP\Desktop\Python\Test\bin\Debug\net6.0-windows\Test.deps.json
+C:\Users\VecheslavSP\Desktop\Python\Test\bin\Debug\net6.0-windows\Test.runtimeconfig.json
+C:\Users\VecheslavSP\Desktop\Python\Test\bin\Debug\net6.0-windows\Test.dll
+C:\Users\VecheslavSP\Desktop\Python\Test\bin\Debug\net6.0-windows\Test.pdb
+C:\Users\VecheslavSP\Desktop\Python\Test\obj\Debug\net6.0-windows\Test.csproj.AssemblyReference.cache
+C:\Users\VecheslavSP\Desktop\Python\Test\obj\Debug\net6.0-windows\Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VecheslavSP\Desktop\Python\Test\obj\Debug\net6.0-windows\Test.AssemblyInfoInputs.cache
+C:\Users\VecheslavSP\Desktop\Python\Test\obj\Debug\net6.0-windows\Test.AssemblyInfo.cs
+C:\Users\VecheslavSP\Desktop\Python\Test\obj\Debug\net6.0-windows\Test.csproj.CoreCompileInputs.cache
+C:\Users\VecheslavSP\Desktop\Python\Test\obj\Debug\net6.0-windows\Test.dll
+C:\Users\VecheslavSP\Desktop\Python\Test\obj\Debug\net6.0-windows\refint\Test.dll
+C:\Users\VecheslavSP\Desktop\Python\Test\obj\Debug\net6.0-windows\Test.pdb
+C:\Users\VecheslavSP\Desktop\Python\Test\obj\Debug\net6.0-windows\Test.genruntimeconfig.cache
+C:\Users\VecheslavSP\Desktop\Python\Test\obj\Debug\net6.0-windows\ref\Test.dll

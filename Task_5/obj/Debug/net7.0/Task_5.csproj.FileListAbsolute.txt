@@ -1,0 +1,15 @@
+C:\Users\VecheslavSP\Desktop\Python\GB\Dop_DZ\Task_5\bin\Debug\net7.0\Task_5.exe
+C:\Users\VecheslavSP\Desktop\Python\GB\Dop_DZ\Task_5\bin\Debug\net7.0\Task_5.deps.json
+C:\Users\VecheslavSP\Desktop\Python\GB\Dop_DZ\Task_5\bin\Debug\net7.0\Task_5.runtimeconfig.json
+C:\Users\VecheslavSP\Desktop\Python\GB\Dop_DZ\Task_5\bin\Debug\net7.0\Task_5.dll
+C:\Users\VecheslavSP\Desktop\Python\GB\Dop_DZ\Task_5\bin\Debug\net7.0\Task_5.pdb
+C:\Users\VecheslavSP\Desktop\Python\GB\Dop_DZ\Task_5\obj\Debug\net7.0\Task_5.csproj.AssemblyReference.cache
+C:\Users\VecheslavSP\Desktop\Python\GB\Dop_DZ\Task_5\obj\Debug\net7.0\Task_5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VecheslavSP\Desktop\Python\GB\Dop_DZ\Task_5\obj\Debug\net7.0\Task_5.AssemblyInfoInputs.cache
+C:\Users\VecheslavSP\Desktop\Python\GB\Dop_DZ\Task_5\obj\Debug\net7.0\Task_5.AssemblyInfo.cs
+C:\Users\VecheslavSP\Desktop\Python\GB\Dop_DZ\Task_5\obj\Debug\net7.0\Task_5.csproj.CoreCompileInputs.cache
+C:\Users\VecheslavSP\Desktop\Python\GB\Dop_DZ\Task_5\obj\Debug\net7.0\Task_5.dll
+C:\Users\VecheslavSP\Desktop\Python\GB\Dop_DZ\Task_5\obj\Debug\net7.0\refint\Task_5.dll
+C:\Users\VecheslavSP\Desktop\Python\GB\Dop_DZ\Task_5\obj\Debug\net7.0\Task_5.pdb
+C:\Users\VecheslavSP\Desktop\Python\GB\Dop_DZ\Task_5\obj\Debug\net7.0\Task_5.genruntimeconfig.cache
+C:\Users\VecheslavSP\Desktop\Python\GB\Dop_DZ\Task_5\obj\Debug\net7.0\ref\Task_5.dll
